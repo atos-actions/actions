@@ -57,6 +57,6 @@ jobs:
         uses: actions/checkout@v6
 
       - name: '🦠 Shai-Hulud Check'
-        uses: gensecaihq/Shai-Hulud-2.0-Detector@v2.0.1
+        uses: gensecaihq/Shai-Hulud-2.0-Detector@v2.1.0
         with:
           fail-on-critical: true
