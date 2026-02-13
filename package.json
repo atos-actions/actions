@@ -1,11 +1,11 @@
 {
-	"name": "@eviden-actions/actions",
-	"description": "Repository for reusable actions for the @eviden-actions organization",
+	"name": "@atos-actions/actions",
+	"description": "Repository for reusable actions for the @atos-actions organization",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/eviden-actions/actions.git"
+		"url": "https://github.com/atos-actions/actions.git"
 	},
-	"bugs": "https://github.com/eviden-actions/actions/issues",
+	"bugs": "https://github.com/atos-actions/actions/issues",
 	"private": "true",
 	"version": "3.2.1",
 	"engines": {
