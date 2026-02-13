@@ -1,3 +1,22 @@
+## [3.2.2](https://github.com/atos-actions/actions/compare/v3.2.1...v3.2.2) (2026-02-13)
+
+### Bug Fixes
+
+* update package name and repository details ([215c2b1](https://github.com/atos-actions/actions/commit/215c2b1547c0133dff38bb4ec4223ee89ee9bbfb))
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump prettier from 3.7.4 to 3.8.0 ([#258](https://github.com/atos-actions/actions/issues/258)) ([cfceffe](https://github.com/atos-actions/actions/commit/cfceffe9ca25f3e31b0ca08881d849caa52461f8))
+* **deps-dev:** bump prettier from 3.8.0 to 3.8.1 ([#259](https://github.com/atos-actions/actions/issues/259)) ([3b2d636](https://github.com/atos-actions/actions/commit/3b2d636d3e29cd6d033d9b2f330420bc321548cd))
+* **deps-dev:** bump the commitlint group with 2 updates ([#256](https://github.com/atos-actions/actions/issues/256)) ([211220f](https://github.com/atos-actions/actions/commit/211220f378c87068ac6084ec426e3f602eb48544))
+* **deps-dev:** bump the commitlint group with 2 updates ([#257](https://github.com/atos-actions/actions/issues/257)) ([102a505](https://github.com/atos-actions/actions/commit/102a50505776b2b02612b5af88a8fd8daa292c29))
+* **deps-dev:** bump the commitlint group with 2 updates ([#262](https://github.com/atos-actions/actions/issues/262)) ([4a3105b](https://github.com/atos-actions/actions/commit/4a3105b40c82194243263f62f0d6635f872ee6a4))
+* **deps-dev:** bump the commitlint group with 2 updates ([#263](https://github.com/atos-actions/actions/issues/263)) ([02e0bba](https://github.com/atos-actions/actions/commit/02e0bbae03c097dda2384b3d3ea0f48e7d109e6b))
+* **deps:** bump gensecaihq/Shai-Hulud-2.0-Detector from 2.0.1 to 2.1.0 ([#265](https://github.com/atos-actions/actions/issues/265)) ([58240ac](https://github.com/atos-actions/actions/commit/58240ac26b5e90c0489bc41d794a6ad3e970cbf0))
+* **deps:** bump lodash from 4.17.21 to 4.17.23 ([#260](https://github.com/atos-actions/actions/issues/260)) ([862937f](https://github.com/atos-actions/actions/commit/862937fa321eeb503a532138f0df01fecae82341))
+* **deps:** bump lodash-es from 4.17.21 to 4.17.23 ([#261](https://github.com/atos-actions/actions/issues/261)) ([7d053f2](https://github.com/atos-actions/actions/commit/7d053f2d17612546309ad203468716ca75f5b3db))
+* **deps:** bump semantic-release from 25.0.2 to 25.0.3 in the semantic-release group ([#264](https://github.com/atos-actions/actions/issues/264)) ([5e8b887](https://github.com/atos-actions/actions/commit/5e8b887dd357d7a2be416745bc7c62ccae7ee01b))
+
 ## [3.2.1](https://github.com/eviden-actions/actions/compare/v3.2.0...v3.2.1) (2025-12-09)
 
 ### Dependencies and Other Build Updates
