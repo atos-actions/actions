@@ -1,3 +1,13 @@
+## [3.2.3](https://github.com/atos-actions/actions/compare/v3.2.2...v3.2.3) (2026-03-16)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump the commitlint group with 2 updates ([#266](https://github.com/atos-actions/actions/issues/266)) ([4d5e6cf](https://github.com/atos-actions/actions/commit/4d5e6cfa8e12b3563fbdb652ccf2a1447d6412f7))
+* **deps-dev:** bump the commitlint group with 2 updates ([#267](https://github.com/atos-actions/actions/issues/267)) ([fccd475](https://github.com/atos-actions/actions/commit/fccd47564c620e78ee5b763ec8f06e36da21ecfb))
+* **deps-dev:** bump the commitlint group with 2 updates ([#268](https://github.com/atos-actions/actions/issues/268)) ([71c30bb](https://github.com/atos-actions/actions/commit/71c30bbce1fd0e7b9f638a43c250cf0ba9374cb5))
+* **deps-dev:** bump the commitlint group with 2 updates ([#270](https://github.com/atos-actions/actions/issues/270)) ([e9bcad5](https://github.com/atos-actions/actions/commit/e9bcad5f11081341f19acbf73075d3bf1988ad82))
+* **deps:** bump actions/create-github-app-token from 2 to 3 ([#269](https://github.com/atos-actions/actions/issues/269)) ([d029632](https://github.com/atos-actions/actions/commit/d029632b9efa6e967eeb914737e444d832459693))
+
 ## [3.2.2](https://github.com/atos-actions/actions/compare/v3.2.1...v3.2.2) (2026-02-13)
 
 ### Bug Fixes
