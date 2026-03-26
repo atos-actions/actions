@@ -1,3 +1,9 @@
+## [3.2.4](https://github.com/atos-actions/actions/compare/v3.2.3...v3.2.4) (2026-03-26)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump picomatch ([#271](https://github.com/atos-actions/actions/issues/271)) ([7246d59](https://github.com/atos-actions/actions/commit/7246d59f4dff1675c47726f149304f37bca80c9e))
+
 ## [3.2.3](https://github.com/atos-actions/actions/compare/v3.2.2...v3.2.3) (2026-03-16)
 
 ### Dependencies and Other Build Updates
