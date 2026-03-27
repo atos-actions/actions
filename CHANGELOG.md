@@ -1,3 +1,9 @@
+## [3.2.5](https://github.com/atos-actions/actions/compare/v3.2.4...v3.2.5) (2026-03-27)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump handlebars from 4.7.8 to 4.7.9 ([#272](https://github.com/atos-actions/actions/issues/272)) ([83e560d](https://github.com/atos-actions/actions/commit/83e560d13ec001b1ce670780467de664d2b523f3))
+
 ## [3.2.4](https://github.com/atos-actions/actions/compare/v3.2.3...v3.2.4) (2026-03-26)
 
 ### Dependencies and Other Build Updates
