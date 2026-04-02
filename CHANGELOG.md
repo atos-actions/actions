@@ -1,3 +1,9 @@
+## [3.2.7](https://github.com/atos-actions/actions/compare/v3.2.6...v3.2.7) (2026-04-02)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump lodash from 4.17.23 to 4.18.1 ([#274](https://github.com/atos-actions/actions/issues/274)) ([7bcc3d6](https://github.com/atos-actions/actions/commit/7bcc3d6719200a62b6300632c12a9334a2b92314))
+
 ## [3.2.6](https://github.com/atos-actions/actions/compare/v3.2.5...v3.2.6) (2026-04-02)
 
 ### Dependencies and Other Build Updates
