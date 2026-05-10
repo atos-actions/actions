@@ -37,7 +37,7 @@ jobs:
           cache: 'npm'
 
       - name: '🛡️ Dependency Review'
-        uses: actions/dependency-review-action@v4
+        uses: actions/dependency-review-action@v5
         with:
           retry-on-snapshot-warnings: true
           comment-summary-in-pr: on-failure
