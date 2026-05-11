@@ -1,3 +1,15 @@
+## [3.2.8](https://github.com/atos-actions/actions/compare/v3.2.7...v3.2.8) (2026-05-11)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump @commitlint/cli from 20.5.0 to 20.5.2 in the commitlint group ([#277](https://github.com/atos-actions/actions/issues/277)) ([3eaab30](https://github.com/atos-actions/actions/commit/3eaab306dcda012a6afcb90a7db41f330445f967))
+* **deps-dev:** bump fast-uri from 3.1.0 to 3.1.2 ([#279](https://github.com/atos-actions/actions/issues/279)) ([862ea4b](https://github.com/atos-actions/actions/commit/862ea4b51d8e548b1c062e958f531c201f87dae6))
+* **deps-dev:** bump prettier from 3.8.1 to 3.8.2 ([#275](https://github.com/atos-actions/actions/issues/275)) ([92f5413](https://github.com/atos-actions/actions/commit/92f5413940332692747ec19a66c5ea98fcadfd4c))
+* **deps-dev:** bump prettier from 3.8.2 to 3.8.3 ([#276](https://github.com/atos-actions/actions/issues/276)) ([821743f](https://github.com/atos-actions/actions/commit/821743f88d7d648d0151cde20a8f80d139472728))
+* **deps-dev:** bump the commitlint group with 2 updates ([#278](https://github.com/atos-actions/actions/issues/278)) ([262c62f](https://github.com/atos-actions/actions/commit/262c62fc2997c45190ca6df5d54815ffe1b08731))
+* **deps-dev:** bump the commitlint group with 2 updates ([#281](https://github.com/atos-actions/actions/issues/281)) ([b27fbb1](https://github.com/atos-actions/actions/commit/b27fbb1b6d8f8b120651a82734dce9c9b55dd3cf))
+* **deps:** bump actions/dependency-review-action from 4 to 5 ([#280](https://github.com/atos-actions/actions/issues/280)) ([fd4fc5f](https://github.com/atos-actions/actions/commit/fd4fc5f9622bd89165de865ce952a8fb908deb2b))
+
 ## [3.2.7](https://github.com/atos-actions/actions/compare/v3.2.6...v3.2.7) (2026-04-02)
 
 ### Dependencies and Other Build Updates
