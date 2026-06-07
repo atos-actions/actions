@@ -1,3 +1,11 @@
+## [3.2.9](https://github.com/atos-actions/actions/compare/v3.2.8...v3.2.9) (2026-06-07)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump the commitlint group with 2 updates ([#282](https://github.com/atos-actions/actions/issues/282)) ([31e88ac](https://github.com/atos-actions/actions/commit/31e88acf73920583d5d85210b9c9218fb1808917))
+* **deps-dev:** bump the commitlint group with 2 updates ([#283](https://github.com/atos-actions/actions/issues/283)) ([e5ad16c](https://github.com/atos-actions/actions/commit/e5ad16cf5c5a68177682cf03707694a41b2830a5))
+* **deps:** bump Namchee/conventional-pr from 0.15.6 to 0.16.0 ([#284](https://github.com/atos-actions/actions/issues/284)) ([1871b08](https://github.com/atos-actions/actions/commit/1871b08943edd0b79216118a4efb240ab0e071e8))
+
 ## [3.2.8](https://github.com/atos-actions/actions/compare/v3.2.7...v3.2.8) (2026-05-11)
 
 ### Dependencies and Other Build Updates
