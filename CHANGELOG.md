@@ -1,3 +1,10 @@
+## [3.2.10](https://github.com/atos-actions/actions/compare/v3.2.9...v3.2.10) (2026-06-10)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump prettier from 3.8.3 to 3.8.4 ([#285](https://github.com/atos-actions/actions/issues/285)) ([11383c6](https://github.com/atos-actions/actions/commit/11383c6b9e60b07718446869bfd1856a963e2da1))
+* **deps:** bump semantic-release from 25.0.3 to 25.0.5 in the semantic-release group ([#286](https://github.com/atos-actions/actions/issues/286)) ([d017e0f](https://github.com/atos-actions/actions/commit/d017e0f5ec434effff47afda4db112343b8ff80a))
+
 ## [3.2.9](https://github.com/atos-actions/actions/compare/v3.2.8...v3.2.9) (2026-06-07)
 
 ### Dependencies and Other Build Updates
