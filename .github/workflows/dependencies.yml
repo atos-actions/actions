@@ -27,7 +27,7 @@ jobs:
 
     steps:
       - name: '☁️ Checkout repository'
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: '⚙️ Use Node.js'
         uses: actions/setup-node@v6
@@ -54,7 +54,7 @@ jobs:
 
     steps:
       - name: '☁️ Checkout repository'
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: '🦠 Shai-Hulud Check'
         uses: gensecaihq/Shai-Hulud-2.0-Detector@v2.1.0
