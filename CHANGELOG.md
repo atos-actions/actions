@@ -1,3 +1,9 @@
+## [3.2.11](https://github.com/atos-actions/actions/compare/v3.2.10...v3.2.11) (2026-06-19)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump actions/checkout from 6 to 7 ([#287](https://github.com/atos-actions/actions/issues/287)) ([adb5ac7](https://github.com/atos-actions/actions/commit/adb5ac7327a520ca5ec1f26246162c2a76ea127b))
+
 ## [3.2.10](https://github.com/atos-actions/actions/compare/v3.2.9...v3.2.10) (2026-06-10)
 
 ### Dependencies and Other Build Updates
