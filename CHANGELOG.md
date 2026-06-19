@@ -1,3 +1,9 @@
+## [3.2.12](https://github.com/atos-actions/actions/compare/v3.2.11...v3.2.12) (2026-06-19)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump js-yaml from 4.1.1 to 4.2.0 ([#288](https://github.com/atos-actions/actions/issues/288)) ([4b5f55d](https://github.com/atos-actions/actions/commit/4b5f55dab5e24d322968909d1c39198d0e3a112f))
+
 ## [3.2.11](https://github.com/atos-actions/actions/compare/v3.2.10...v3.2.11) (2026-06-19)
 
 ### Dependencies and Other Build Updates
