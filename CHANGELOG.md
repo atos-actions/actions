@@ -1,3 +1,16 @@
+## [3.2.13](https://github.com/atos-actions/actions/compare/v3.2.12...v3.2.13) (2026-07-12)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump @commitlint/cli from 21.2.0 to 21.2.1 in the commitlint group ([#294](https://github.com/atos-actions/actions/issues/294)) ([3e1945e](https://github.com/atos-actions/actions/commit/3e1945e24226bddb2b91879a52c5b6af449aaaca))
+* **deps-dev:** bump prettier from 3.8.4 to 3.9.1 ([#290](https://github.com/atos-actions/actions/issues/290)) ([a034640](https://github.com/atos-actions/actions/commit/a034640679b5c56cc489e24f2ed3adc522d1cda7))
+* **deps-dev:** bump prettier from 3.9.1 to 3.9.3 ([#291](https://github.com/atos-actions/actions/issues/291)) ([a011e64](https://github.com/atos-actions/actions/commit/a011e641eadb06120c7b6c871b9d7750fd53d4bf))
+* **deps-dev:** bump prettier from 3.9.3 to 3.9.4 ([#293](https://github.com/atos-actions/actions/issues/293)) ([c5816b5](https://github.com/atos-actions/actions/commit/c5816b5d89f816aa173380741266e54c373c6a40))
+* **deps-dev:** bump prettier from 3.9.4 to 3.9.5 ([#295](https://github.com/atos-actions/actions/issues/295)) ([f5f059f](https://github.com/atos-actions/actions/commit/f5f059fe418a9e3ef4ba6ddc4b87961cb9c7d0e2))
+* **deps-dev:** bump the commitlint group with 2 updates ([#289](https://github.com/atos-actions/actions/issues/289)) ([0468fba](https://github.com/atos-actions/actions/commit/0468fbaf36a5a3a40b0ad2bb143c7223228cd250))
+* **deps-dev:** bump the commitlint group with 2 updates ([#292](https://github.com/atos-actions/actions/issues/292)) ([bca70b9](https://github.com/atos-actions/actions/commit/bca70b93dc10181295ddaa373ab4c9de0f4de387))
+* **deps:** bump semantic-release from 25.0.5 to 25.0.6 in the semantic-release group ([#296](https://github.com/atos-actions/actions/issues/296)) ([1033275](https://github.com/atos-actions/actions/commit/1033275ca23ad09d80cbc3344bf12b3d2ab451f8))
+
 ## [3.2.12](https://github.com/atos-actions/actions/compare/v3.2.11...v3.2.12) (2026-06-19)
 
 ### Dependencies and Other Build Updates
