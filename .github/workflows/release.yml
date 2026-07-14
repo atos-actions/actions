@@ -48,7 +48,7 @@ jobs:
           # App must be in the bypass list of repository rulesets
 
       - name: '⚙️ Use Node.js'
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v7
         with:
           node-version-file: '.nvmrc'
           check-latest: true
