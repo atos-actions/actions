@@ -1,3 +1,9 @@
+## [3.2.15](https://github.com/atos-actions/actions/compare/v3.2.14...v3.2.15) (2026-07-19)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump semantic-release from 25.0.7 to 25.0.8 in the semantic-release group ([#299](https://github.com/atos-actions/actions/issues/299)) ([6e1b8a5](https://github.com/atos-actions/actions/commit/6e1b8a506fe71b8c667a1354dee515d55f3bc76d))
+
 ## [3.2.14](https://github.com/atos-actions/actions/compare/v3.2.13...v3.2.14) (2026-07-13)
 
 ### Dependencies and Other Build Updates
