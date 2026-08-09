@@ -1,3 +1,11 @@
+## [3.2.17](https://github.com/atos-actions/actions/compare/v3.2.16...v3.2.17) (2026-08-09)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump fast-uri from 3.1.4 to 3.1.5 ([#303](https://github.com/atos-actions/actions/issues/303)) ([7f27947](https://github.com/atos-actions/actions/commit/7f279478d17ff77d6e036f3bed04e5070e6d3b88))
+* **deps-dev:** bump the semantic-release group across 1 directory with 2 updates ([#300](https://github.com/atos-actions/actions/issues/300)) ([dbd1dbb](https://github.com/atos-actions/actions/commit/dbd1dbb62bb0575c36d1cbe11ac4f4ce0a68485f))
+* **deps:** bump semantic-release from 25.0.8 to 25.0.9 in the semantic-release group ([#304](https://github.com/atos-actions/actions/issues/304)) ([9e81116](https://github.com/atos-actions/actions/commit/9e811168d87d4ac6d17ff152dcb2cc642945e475))
+
 ## [3.2.16](https://github.com/atos-actions/actions/compare/v3.2.15...v3.2.16) (2026-08-03)
 
 ### Dependencies and Other Build Updates
