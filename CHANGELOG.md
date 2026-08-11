@@ -1,3 +1,9 @@
+## [3.2.19](https://github.com/atos-actions/actions/compare/v3.2.18...v3.2.19) (2026-08-11)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump gensecaihq/Shai-Hulud-2.0-Detector from 2.1.0 to 2.2.0 ([#306](https://github.com/atos-actions/actions/issues/306)) ([87b89dd](https://github.com/atos-actions/actions/commit/87b89dd4bf53703222951311a7c2b5cd69e55a1e))
+
 ## [3.2.18](https://github.com/atos-actions/actions/compare/v3.2.17...v3.2.18) (2026-08-10)
 
 ### Dependencies and Other Build Updates
