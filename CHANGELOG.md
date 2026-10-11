@@ -1,3 +1,12 @@
+## [3.2.21](https://github.com/atos-actions/actions/compare/v3.2.20...v3.2.21) (2026-10-11)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump prettier from 3.9.6 to 3.9.8 ([#310](https://github.com/atos-actions/actions/issues/310)) ([63a23fc](https://github.com/atos-actions/actions/commit/63a23fc7e13dd5839dc999d3359cba03b4382d9a))
+* **deps-dev:** bump prettier from 3.9.8 to 3.9.9 ([#313](https://github.com/atos-actions/actions/issues/313)) ([4ba1625](https://github.com/atos-actions/actions/commit/4ba1625106fd5d35f8160790374066803672d156))
+* **deps-dev:** bump the commitlint group with 2 updates ([#311](https://github.com/atos-actions/actions/issues/311)) ([4040500](https://github.com/atos-actions/actions/commit/40405003e3f3dc6191257904569bec3b3dc65ed1))
+* **deps:** bump actions/setup-node from 7.0.0 to 7.1.0 ([#314](https://github.com/atos-actions/actions/issues/314)) ([c37a091](https://github.com/atos-actions/actions/commit/c37a091b7b60d006cb954f1c5a6e5fa8670c6d80))
+
 ## [3.2.20](https://github.com/atos-actions/actions/compare/v3.2.19...v3.2.20) (2026-09-14)
 
 ### Dependencies and Other Build Updates
