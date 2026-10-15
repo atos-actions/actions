@@ -1,3 +1,10 @@
+## [3.2.23](https://github.com/atos-actions/actions/compare/v3.2.22...v3.2.23) (2026-10-15)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump prettier from 3.9.9 to 3.9.10 ([#316](https://github.com/atos-actions/actions/issues/316)) ([cb15a6a](https://github.com/atos-actions/actions/commit/cb15a6ac081a4dddbdf30b4db0fefc6b58a3a949))
+* **deps:** bump actions/create-github-app-token from 3.2.0 to 3.3.0 ([#317](https://github.com/atos-actions/actions/issues/317)) ([738da04](https://github.com/atos-actions/actions/commit/738da0465e98ba2832a389cf0900fc576255cb6b))
+
 ## [3.2.22](https://github.com/atos-actions/actions/compare/v3.2.21...v3.2.22) (2026-10-11)
 
 ### Dependencies and Other Build Updates
