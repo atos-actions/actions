@@ -1,3 +1,14 @@
+## [3.2.24](https://github.com/atos-actions/actions/compare/v3.2.23...v3.2.24) (2026-11-16)
+
+### Bug Fixes
+
+* update npm ci command to install optional dependencies ([cd9d2ec](https://github.com/atos-actions/actions/commit/cd9d2ecf139608c2396ac51cf2038effdba3621b))
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** bump fast-uri from 3.1.8 to 3.1.9 ([#319](https://github.com/atos-actions/actions/issues/319)) ([767a59b](https://github.com/atos-actions/actions/commit/767a59b3ce08614f10b95dea4e2b5902fa50890e))
+* **deps-dev:** bump the commitlint group with 2 updates ([#318](https://github.com/atos-actions/actions/issues/318)) ([52c9b80](https://github.com/atos-actions/actions/commit/52c9b801851dd785a011c4dce9a84d97e2e4882e))
+
 ## [3.2.23](https://github.com/atos-actions/actions/compare/v3.2.22...v3.2.23) (2026-10-15)
 
 ### Dependencies and Other Build Updates
