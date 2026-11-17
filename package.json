@@ -17,7 +17,6 @@
 		"build": "echo 'No build script defined for this project'",
 		"lint": "biome check --no-errors-on-unmatched --files-ignore-unknown=true",
 		"lint:fix": "biome check --no-errors-on-unmatched --files-ignore-unknown=true --write",
-		"prepare": "husky",
 		"release": "npx semantic-release",
 		"test": "echo 'No test script defined for this project'"
 	},
