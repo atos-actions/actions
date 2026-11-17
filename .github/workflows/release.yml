@@ -17,7 +17,7 @@ permissions:
 
 jobs:
   release:
-    name: '🏷️ Release'
+    name: "🏷️ Release"
     runs-on: ubuntu-latest
 
     environment:
@@ -32,14 +32,14 @@ jobs:
       packages: write
 
     steps:
-      - name: '🔐 Generate GitHub App Token'
+      - name: "🔐 Generate GitHub App Token"
         id: app-token
         uses: actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
         with:
           app-id: ${{ secrets.RELEASE_APP_ID }}
           private-key: ${{ secrets.RELEASE_APP_PRIVATE_KEY }}
 
-      - name: '☁️ Checkout repository'
+      - name: "☁️ Checkout repository"
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 0
@@ -47,22 +47,22 @@ jobs:
           # Use GitHub App token to bypass branch protection/rulesets
           # App must be in the bypass list of repository rulesets
 
-      - name: '⚙️ Use Node.js'
+      - name: "⚙️ Use Node.js"
         uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
-          node-version-file: '.nvmrc'
+          node-version-file: ".nvmrc"
           check-latest: true
-          cache: 'npm'
+          cache: "npm"
 
-      - name: '⛓️ Install dependencies'
+      - name: "⛓️ Install dependencies"
         run: npm ci --no-optional --no-audit --prefer-offline --progress=false --loglevel verbose
 
-      - name: '🔧 Configure Git for signed commits'
+      - name: "🔧 Configure Git for signed commits"
         run: |
           git config user.name "${{ steps.app-token.outputs.app-slug }}[bot]"
           git config user.email "${{ steps.app-token.outputs.app-slug }}[bot]@users.noreply.github.com"
 
-      - name: '📦 Release'
+      - name: "📦 Release"
         id: release
         env:
           GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}

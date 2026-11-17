@@ -15,30 +15,21 @@
 	"scripts": {
 		"start": "echo 'No start script defined for this project'",
 		"build": "echo 'No build script defined for this project'",
-		"lint": "npm run lint:style",
-		"lint:fix": "npm run lint:style:fix",
-		"lint:style": "prettier --check --ignore-unknown .",
-		"lint:style:fix": "prettier --write --ignore-unknown .",
-		"git:pre-commit": "npx pretty-quick --staged",
-		"git:pre-push": "npm test",
-		"prepare": "husky",
+		"lint": "biome check --no-errors-on-unmatched --files-ignore-unknown=true",
+		"lint:fix": "biome check --no-errors-on-unmatched --files-ignore-unknown=true --write",
 		"release": "npx semantic-release",
 		"test": "echo 'No test script defined for this project'"
 	},
 	"devDependencies": {
+		"@biomejs/biome": "^2.6.8",
 		"@commitlint/cli": "^21.2.4",
 		"@commitlint/config-conventional": "^21.0.2",
 		"@semantic-release/changelog": "^7.0.0",
 		"@semantic-release/git": "^11.0.1",
-		"husky": "^9.1.7",
-		"prettier": "^3.9.10",
+		"lefthook": "^2.2.2",
 		"semantic-release-major-tag": "^0.3.2"
 	},
 	"optionalDependencies": {
-		"pretty-quick": "^4.2.2",
 		"semantic-release": "^25.0.9"
-	},
-	"overrides": {
-		"conventional-changelog-conventionalcommits": ">= 8.0.0"
 	}
 }
