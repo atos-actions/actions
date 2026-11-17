@@ -19,7 +19,7 @@ permissions:
 
 jobs:
   release:
-    name: '▶️ actions'
+    name: "▶️ actions"
     uses: ./.github/workflows/release.yml
     secrets:
       RELEASE_APP_ID: ${{ secrets.RELEASE_APP_ID }}
