@@ -30,7 +30,7 @@
 		}
 	},
 	"files": {
-		"includes": ["**", "!**/.devcontainer", "!**/*.astro", "!**/performance.test.ts", "!**/public/assets/icons.svg"]
+		"includes": ["**", "!**/.devcontainer", "!CHANGELOG.md"]
 	},
 	"vcs": {
 		"enabled": true,
