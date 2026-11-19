@@ -30,6 +30,6 @@
 		"semantic-release-major-tag": "^0.3.2"
 	},
 	"optionalDependencies": {
-		"semantic-release": "^25.0.9"
+		"semantic-release": "^26.0.1"
 	}
 }
