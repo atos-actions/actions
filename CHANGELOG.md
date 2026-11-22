@@ -1,3 +1,10 @@
+## [3.2.26](https://github.com/atos-actions/actions/compare/v3.2.25...v3.2.26) (2026-11-22)
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump actions/create-github-app-token from 3.3.0 to 3.4.0 ([#323](https://github.com/atos-actions/actions/issues/323)) ([4eb3591](https://github.com/atos-actions/actions/commit/4eb35910957356c956b4a9c1e347eca3d2dcccd2))
+* **deps:** bump actions/dependency-review-action from 5.0.0 to 5.0.1 ([#324](https://github.com/atos-actions/actions/issues/324)) ([1a90e5d](https://github.com/atos-actions/actions/commit/1a90e5d0d486793ee79af6f013cdf6dd00131b00))
+
 ## [3.2.25](https://github.com/atos-actions/actions/compare/v3.2.24...v3.2.25) (2026-11-20)
 
 ### Dependencies and Other Build Updates
